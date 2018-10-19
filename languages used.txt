@@ -2,4 +2,10 @@ Welcome to househoy
 
 languages used :
 
+ 1. Java
+ 2. Servlets
+ 3. Jsp
+ 4. Html
+ 5. CSS
+ 6. JavaScript
  
